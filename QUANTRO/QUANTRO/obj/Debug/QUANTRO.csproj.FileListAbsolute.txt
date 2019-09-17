@@ -1,0 +1,18 @@
+C:\Users\Dang Nguyen Hong Kha\Desktop\QUANTRO\QUANTRO\bin\Debug\QUANTRO.exe.config
+C:\Users\Dang Nguyen Hong Kha\Desktop\QUANTRO\QUANTRO\bin\Debug\QUANTRO.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\QUANTRO\QUANTRO\bin\Debug\QUANTRO.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\QUANTRO\QUANTRO\obj\Debug\QUANTRO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\QUANTRO\QUANTRO\obj\Debug\QUANTRO.Properties.Resources.resources
+C:\Users\Dang Nguyen Hong Kha\Desktop\QUANTRO\QUANTRO\obj\Debug\QUANTRO.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Hong Kha\Desktop\QUANTRO\QUANTRO\obj\Debug\QUANTRO.exe
+C:\Users\Dang Nguyen Hong Kha\Desktop\QUANTRO\QUANTRO\obj\Debug\QUANTRO.pdb
+C:\Users\Dang Nguyen Hong Kha\Desktop\QUANTRO\QUANTRO\obj\Debug\QUANTRO.txt.resources
+D:\2018_HK2\2018_TU HOC WINFORM\QUANTRO\QUANTRO\bin\Debug\QUANTRO.exe.config
+D:\2018_HK2\2018_TU HOC WINFORM\QUANTRO\QUANTRO\bin\Debug\QUANTRO.exe
+D:\2018_HK2\2018_TU HOC WINFORM\QUANTRO\QUANTRO\bin\Debug\QUANTRO.pdb
+D:\2018_HK2\2018_TU HOC WINFORM\QUANTRO\QUANTRO\obj\Debug\QUANTRO.csprojResolveAssemblyReference.cache
+D:\2018_HK2\2018_TU HOC WINFORM\QUANTRO\QUANTRO\obj\Debug\QUANTRO.txt.resources
+D:\2018_HK2\2018_TU HOC WINFORM\QUANTRO\QUANTRO\obj\Debug\QUANTRO.Properties.Resources.resources
+D:\2018_HK2\2018_TU HOC WINFORM\QUANTRO\QUANTRO\obj\Debug\QUANTRO.csproj.GenerateResource.Cache
+D:\2018_HK2\2018_TU HOC WINFORM\QUANTRO\QUANTRO\obj\Debug\QUANTRO.exe
+D:\2018_HK2\2018_TU HOC WINFORM\QUANTRO\QUANTRO\obj\Debug\QUANTRO.pdb
